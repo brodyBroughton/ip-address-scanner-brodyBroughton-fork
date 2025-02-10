@@ -2,6 +2,14 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17976891)
 # IP Address Scanner
 
+⚠️ **SECURITY WARNING** ⚠️
+```
+IMPORTANT: Network scanning without explicit permission can be illegal in many jurisdictions 
+and could result in severe legal consequences. This tool should ONLY be used on networks and 
+systems you own or have explicit written permission to test. The authors are not responsible 
+for any misuse or damage caused by this tool.
+```
+
 A simple Python tool that converts CIDR notation into a binary subnet mask, parses the IP address, applies the subnet mask, calculates the network range, and pings each IP address in the range.
 
 ## Features
